@@ -56,7 +56,7 @@ ham   | "U dun say so early hor... U c already then say..."
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/abhishekk1004/spam_email.git
+git clone https://github.com/abhishekk1004/spam_email_detection.git
 cd spam_email
 ```
 
@@ -137,7 +137,7 @@ Model Accuracy: 0.9865071243
 ```
 
 ### Interactive Testing
-![Spam Detection Demo](https://via.placeholder.com/600x300/ff6b6b/ffffff?text=Interactive+Spam+Detection+Demo)
+![Spam Detection Demo](images/email.png)
 
 ### Feature Importance Visualization
 ![Feature Importance](https://via.placeholder.com/600x400/4ecdc4/ffffff?text=Top+Spam+Indicator+Words)
