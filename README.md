@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@abhishekk1004](https://github.com/abhishekk1004)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/abhishekkushwaha-py/)
+- LinkedIn: [Abhishek Kushwaha](https://www.linkedin.com/in/abhishekkushwaha-py/)
 
 ## 🙏 Acknowledgments
 
