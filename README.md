@@ -139,8 +139,6 @@ Model Accuracy: 0.9865071243
 ### Interactive Testing
 ![Spam Detection Demo](images/email.png)
 
-### Feature Importance Visualization
-![Feature Importance](https://via.placeholder.com/600x400/4ecdc4/ffffff?text=Top+Spam+Indicator+Words)
 
 ## 🛠️ Future Enhancements
 
@@ -169,8 +167,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@abhishekk1004](https://github.com/abhishekk1004)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/abhishekkushwaha-py/)
 
 ## 🙏 Acknowledgments
 
